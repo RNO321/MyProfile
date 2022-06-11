@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyProfile</string>
+    <string name="title">About Me</string>
+    <string name="about_me">
+        Sherlock Holmes is a fictional detective created by British author Sir Arthur Conan Doyle.
+        Holmes is best known for his proficiency with observation, deduction, forensic science and
+        logical reasoning, which he employs when investigating cases for a wide variety of clients.
+        He has a flair for showmanship to impress observers. At times Holmes relaxes with music,
+        either playing the violin, or enjoying the works of composers such as Wagner. The first set
+        of Holmes stories was published between 1887 and 1893.
+    </string>
+
+    <string name="theme_label">Set theme to</string>
+    <string name="btn_confirm">Confirm</string>
+
+    <string-array name="array_themes">
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+        <item>Winter</item>
+    </string-array>
+
+</resources>
